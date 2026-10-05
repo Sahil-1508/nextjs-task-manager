@@ -4,6 +4,10 @@ A simple and clean **Task Manager application** built using **React.js and Next.
 
 This project allows users to create tasks with a title and description, view all added tasks, and delete tasks when they are no longer needed.
 
+## 🚀 Live Demo
+
+👉 [View Live Project](https://nextjs-task-manager-gold.vercel.app)
+
 ---
 
 ## 🚀 Features
